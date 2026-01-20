@@ -1,4 +1,4 @@
-# Instagram Profiles Dataset Sample
+# Instagram Profiles データセットサンプル
 
 <h2>1,556件のレコードのサンプルデータセット</h2>
 
